@@ -1,2 +1,2 @@
 # LibriCrowd
-A large-scale crowdsourced speech corpus
+A large-scale crowdsourced speech corpus with clean and noisy labels
