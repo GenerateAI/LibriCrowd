@@ -1,0 +1,24 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,-->
+<!-- please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+    <h3>Instructions</h3>
+    <p>Transcribe the English Speech</p>
+    <p>1. Ignore ALL punctuation marks such as period, comma, quotation, question, etc. BUT KEEP apostrophe. For example "what's", "I'm", "it's", "I've", "you're", "I've". </p>
+    <p>2. Ignore ALL non-textual phrases such as "aha", "ha", "um", "umms", "hmms", "uhs", etc. </p>
+    <p>3. Put "?" at the word that is not clear to you. Too many "?" or errors will be rejected. </p>
+    <p>4. Transcribe numbers using word: e.g. 2 -> two, 34 -> thirty four, 576 -> five hundred senventy six. </p>
+    
+    <audio controls="" style="width: 100%">
+         <!--Your audio file URL will be substituted for the "audio_url" variable when-->
+         <!--      you publish a batch with an input file containing multiple audio file URLs -->
+        <source src="https://s3.amazonaws.com/transcript22/LibriSpeech/trainother60h/${audio_url}" type="audio/flac" />
+    </audio>
+    <crowd-text-area name="transcription" placeholder="Transcribe the above English Speech here..." rows="1" required></crowd-text-area>
+    <p style="margin-bottom:2cm;"></p>
+
+</crowd-form>
