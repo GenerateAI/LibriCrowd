@@ -41,11 +41,11 @@ This dataset can be split into three subsets. For training, the data is split in
 * Full audio files can be downloaded from:
     * [train-mixed-10h.tar.gz](https://www.dropbox.com/s/h86wodvi0f2qsdl/train-mixed-10h.tar.gz?dl=0) [598M]
     * [train-other-10h.tar.gz](https://www.dropbox.com/s/80eklq30r8gw078/train-other-10h.tar.gz?dl=0) [591M]
-    * [train-other-60h.tar.gz](TBD) [3.7G]
-    * [dev-clean.tar.gz](https://www.openslr.org/resources/12/dev-clean.tar.gz) [337M]
-    * [dev-other.tar.gz](https://www.openslr.org/resources/12/dev-other.tar.gz) [314M]
-    * [test-clean.tar.gz](https://www.openslr.org/resources/12/test-clean.tar.gz) [346M]
-    * [test-other.tar.gz](https://www.openslr.org/resources/12/test-other.tar.gz) [328M]
+    * [train-other-60h.tar.gz](https://www.dropbox.com/s/qlfzl01nfpyegol/train-other-60h.tar.gz?dl=0) [3.7G]
+    * [dev-clean.tar.gz](https://www.dropbox.com/s/8rj0aw1w4jh0tui/dev-clean.tar.gz?dl=0) [337M]
+    * [dev-other.tar.gz](https://www.dropbox.com/s/ctci3esk2vm48nr/dev-other.tar.gz?dl=0) [314M]
+    * [test-clean.tar.gz](https://www.dropbox.com/s/gj6ht5h5hpwz2nn/test-clean.tar.gz?dl=0) [346M]
+    * [test-other.tar.gz](https://www.dropbox.com/s/1zl7alr2p8o6yql/test-other.tar.gz?dl=0) [328M]
 
 ## Licensing Information
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
