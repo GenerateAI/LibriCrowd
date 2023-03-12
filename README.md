@@ -37,7 +37,8 @@ This dataset can be split into three subsets. For training, the data is split in
 ## Download
 * The raw human transcriptions can be downloaded from ``./transcription/raw/``
 * The processed human transcriptions can be downloaded from ``./transcription/processed/``
-* The sample raw speech audio files can be viewed from ``./audio_sample/``. Full audio files can be downloaded from:
+* The sample raw speech audio files can be listened from ``./audio_sample/``
+* Full audio files can be downloaded from:
     * [train-mixed-10h.tar.gz](https://www.dropbox.com/s/h86wodvi0f2qsdl/train-mixed-10h.tar.gz?dl=0) [598M]
     * [train-other-10h.tar.gz](https://www.dropbox.com/s/80eklq30r8gw078/train-other-10h.tar.gz?dl=0) [591M]
     * [train-other-60h.tar.gz](TBD) [3.7G]
