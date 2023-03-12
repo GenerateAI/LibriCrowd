@@ -35,10 +35,16 @@ This dataset can be split into three subsets. For training, the data is split in
 
 
 ## Download
-* The raw speech audio files can be downloaded from ``./audio/``
 * The raw human transcriptions can be downloaded from ``./transcription/raw/``
 * The processed human transcriptions can be downloaded from ``./transcription/processed/``
-
+* The sample raw speech audio files can be viewed from ``./audio_sample/``. Full audio files can be downloaded:
+    * [train-mixed-10h.tar.gz](TBD)[598M]
+    * [train-other-10h.tar.gz](https://www.dropbox.com/s/80eklq30r8gw078/train-other-10h.tar.gz?dl=0)[591M]
+    * [train-other-60h.tar.gz](TBD)[3.7G]
+    * [dev-clean.tar.gz](https://www.openslr.org/resources/12/dev-clean.tar.gz)[337M]
+    * [dev-other.tar.gz](https://www.openslr.org/resources/12/dev-other.tar.gz)[314M]
+    * [test-clean.tar.gz](https://www.openslr.org/resources/12/test-clean.tar.gz)[346M]
+    * [test-other.tar.gz](https://www.openslr.org/resources/12/test-other.tar.gz)[328M]
 
 ## Licensing Information
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
