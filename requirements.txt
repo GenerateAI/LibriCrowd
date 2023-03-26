@@ -6,4 +6,6 @@ nltk
 numpy
 pandas
 sacremoses
+torch
+torchaudio
 tqdm
