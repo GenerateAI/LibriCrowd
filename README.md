@@ -48,7 +48,7 @@ This dataset can be split into three subsets. For training, the data is split in
     * [test-other.tar.gz](https://www.dropbox.com/s/1zl7alr2p8o6yql/test-other.tar.gz?dl=0) [328M]
 
 ## Licensing Information
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 
 ## Acknowledgements
