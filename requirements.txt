@@ -1,0 +1,9 @@
+Levenshtein
+collections
+jiwer
+matplotlib
+nltk
+numpy
+pandas
+sacremoses
+tqdm
